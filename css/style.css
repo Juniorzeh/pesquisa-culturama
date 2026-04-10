@@ -106,3 +106,8 @@ button[type="reset"]:hover {
     background-color: orange;
     color: #ffffff;
 }
+
+.dadosSendSucess {
+    text-align: center;
+    padding: 300px;
+}
